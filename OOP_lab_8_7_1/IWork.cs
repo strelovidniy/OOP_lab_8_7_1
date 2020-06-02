@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP_lab_7_7_2
+namespace OOP_lab_8_7_1
 {
     interface IWork
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace OOP_lab_7_7_2
+namespace OOP_lab_8_7_1
 {
     class Weather : IComparable
     {

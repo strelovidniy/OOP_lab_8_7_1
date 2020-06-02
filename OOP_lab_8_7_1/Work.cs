@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace OOP_lab_7_7_2
+namespace OOP_lab_8_7_1
 {
     class Work : IWork
     {
